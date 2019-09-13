@@ -1,0 +1,7 @@
+C:\Users\andre\Downloads\NamedPipes-master\Client\bin\Debug\Client.exe.config
+C:\Users\andre\Downloads\NamedPipes-master\Client\bin\Debug\Client.exe
+C:\Users\andre\Downloads\NamedPipes-master\Client\bin\Debug\Client.pdb
+C:\Users\andre\Downloads\NamedPipes-master\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\andre\Downloads\NamedPipes-master\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\NamedPipes-master\Client\obj\Debug\Client.exe
+C:\Users\andre\Downloads\NamedPipes-master\Client\obj\Debug\Client.pdb

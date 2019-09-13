@@ -1,0 +1,8 @@
+C:\Users\andre\Downloads\NamedPipes-master\Server\bin\Debug\Server.exe
+C:\Users\andre\Downloads\NamedPipes-master\Server\bin\Debug\Server.pdb
+C:\Users\andre\Downloads\NamedPipes-master\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\andre\Downloads\NamedPipes-master\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\NamedPipes-master\Server\obj\Debug\Server.exe
+C:\Users\andre\Downloads\NamedPipes-master\Server\obj\Debug\Server.pdb
+C:\Users\andre\Downloads\NamedPipes-master\Server\bin\Debug\System.Management.Automation.dll
+C:\Users\andre\Downloads\NamedPipes-master\Server\obj\Debug\Server.csproj.CopyComplete
